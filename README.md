@@ -2,6 +2,8 @@
 
 ## Tech stack:
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!--
 **Arragh/Arragh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
