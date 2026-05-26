@@ -5,6 +5,11 @@
   <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,rabbitmq,redis,git,github,githubactions,gitlab,docker,aws,postman,vscode" />
 </p>
 
+<h2 align="center">Also worked with:</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,vue,tailwind,jquery,go" />
+</p>
+
 <!--
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&&color=512bd4&logo=csharp&logoColor=white)
