@@ -1,6 +1,6 @@
 <h3 align="center">Main backend stack:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,rabbitmq,redis,git,github,githubactions,gitlab,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,rabbitmq,redis,git,github,githubactions,gitlab,docker,aws,vscode,postman" />
 </p>
 
 <h3 align="center">Also worked with:</h3>
@@ -11,11 +11,6 @@
 <h3 align="center">For fun:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,godot" />
-</p>
-
-<h3 align="center">Developer Tools:</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,rider" />
 </p>
 
 <!--
