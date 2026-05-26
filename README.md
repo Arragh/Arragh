@@ -1,3 +1,7 @@
+Seasoned .NET Backend Developer with years of experience in the C#/.NET ecosystem (coding in C# since 2019). I've worked in diverse environments, from small teams to large product and fintech companies. My expertise includes building microservices and monoliths, architecting solutions and DB schemas, and picking the right tech stack for the job.
+
+Before diving into development, I was a SysAdmin (Windows Server + Active Directory), keeping corporate networks up and running smoothly.
+
 <h3 align="center">Main backend stack:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,rabbitmq,redis,git,github,githubactions,gitlab,docker,aws,vscode,postman" />
