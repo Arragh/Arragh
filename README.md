@@ -1,6 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi there</h1>
 
-## 💻 Tech stack:
+<h2 align="center">Main backend stack:</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,rabbitmq,redis,git,github,githubactions,gitlab,docker,aws,postman,vscode" />
+</p>
+
+<!--
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&&color=512bd4&logo=csharp&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -14,6 +19,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&color=444444&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+-->
 
 <!--
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
