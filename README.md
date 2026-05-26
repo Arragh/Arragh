@@ -7,7 +7,12 @@
 
 <h2 align="center">Also worked with:</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,vue,tailwind,jquery,go" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,vue,tailwind,jquery" />
+</p>
+
+<h2 align="center">For fun:</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,godot" />
 </p>
 
 <!--
