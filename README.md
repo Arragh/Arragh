@@ -1,26 +1,14 @@
-<h1 align="center">Hi there</h1>
-
-<p align="center">
-  <b>Main backend stack:</b>
-</p>
+<h3 align="center">Main backend stack:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,rabbitmq,redis,git,github,githubactions,gitlab,docker,aws,postman,vscode" />
 </p>
 
-<br>
-
-<p align="center">
-  <b>Also worked with:</b>
-</p>
+<h3 align="center">Also worked with:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,vue,tailwind,jquery" />
 </p>
 
-<br>
-
-<p align="center">
-  <b>For fun:</b>
-</p>
+<h3 align="center">For fun:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,godot" />
 </p>
