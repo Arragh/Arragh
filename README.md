@@ -4,17 +4,35 @@ Before diving into development, I was a SysAdmin (Windows Server + Active Direct
 
 <h3 align="center">Main backend stack:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,rabbitmq,redis,git,github,githubactions,gitlab,docker,aws,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=dotnet" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=rabbitmq" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=gitlab" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="70" />&nbsp;
 </p>
 
 <h3 align="center">Also worked with:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,vue,tailwind,jquery" />
+  <img src="https://skillicons.dev/icons?i=js" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vue" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=jquery" width="70" />&nbsp;
 </p>
 
 <h3 align="center">For fun:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,godot" />
+  <img src="https://skillicons.dev/icons?i=go" width="70" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=godot" width="70" />&nbsp;
 </p>
 
 <!--
