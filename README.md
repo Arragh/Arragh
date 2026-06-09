@@ -4,35 +4,35 @@ Before diving into development, I was a SysAdmin (Windows Server + Active Direct
 
 <h3 align="center">Main backend stack:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=cs" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=rabbitmq" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=githubactions" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=gitlab" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="60" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=rabbitmq" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=gitlab" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" />&nbsp;
 </p>
 
 <h3 align="center">Also worked with:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vue" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=jquery" width="60" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vue" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=jquery" />&nbsp;
 </p>
 
 <h3 align="center">For fun:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go" width="60" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=godot" width="60" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=godot" />&nbsp;
 </p>
 
 <!--
