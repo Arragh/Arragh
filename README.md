@@ -2,39 +2,6 @@ Seasoned .NET Backend Developer with years of experience in the C#/.NET ecosyste
 
 Before diving into development, I was a SysAdmin (Windows Server + Active Directory), keeping corporate networks up and running smoothly.
 
-<h3 align="center">Main backend stack:</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=cs" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=rabbitmq" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=githubactions" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=gitlab" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" />&nbsp;
-</p>
-
-<h3 align="center">Also worked with:</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vue" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=jquery" />&nbsp;
-</p>
-
-<h3 align="center">For fun:</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=godot" />&nbsp;
-</p>
-
 <!--
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&&color=512bd4&logo=csharp&logoColor=white)
